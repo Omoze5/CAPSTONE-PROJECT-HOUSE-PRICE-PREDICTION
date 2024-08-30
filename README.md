@@ -1,6 +1,6 @@
 # PROJECT OVERVIEW
    
-   ### PROBLEM STATEMENT: 
+   ### PROBLEM STATEMENT 
    
   Given a dataset containing various residential property features, the challenge is to develop a predictive model that accurately estimates house sale prices, aiding buyers, sellers, and real estate professionals in making informed decisions.
   
