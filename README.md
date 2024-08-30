@@ -1,19 +1,19 @@
 # PROJECT OVERVIEW
    
-   ## PROBLEM STATEMENT: 
+   ### PROBLEM STATEMENT: 
    
   Given a dataset containing various residential property features, the challenge is to develop a predictive model that accurately estimates house sale prices, aiding buyers, sellers, and real estate professionals in making informed decisions.
   
-  ## Important Feature Highlight 
+  ### Important Feature Highlight 
   This project focuses more on 6 unique features which MSSUbclass, MSZoning, Utilities Type, Lot Frontage, YearBuilt and Neighborhood in relation to the target feature which is the Sales Price.
-  ## Stakeholders: 
+  ### Stakeholders: 
   People that are likely to benefit from this project are buyers, sellers and real estate professionals
   
 # DATA COLLECTION
-  ## DATA SOURCE 
+  ### DATA SOURCE 
   The dataset was gotten from a [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) competition.
 
-  ## DATA DESCRIPTION 
+  ### DATA DESCRIPTION 
   The dataset folder contains two dataset which contains the train and test dataset. The train dataset has 81 columns and 1,460 rows including the target variable which is the sales price. The test dataset is an 
   unlabeled data without the target variable, it has 80 columns and 1,459 rows. The aim is to predict the unlabeled data after building the model. 
 
@@ -25,7 +25,7 @@
 •	Model Training and Evaluation: Scikit-learn (Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, RandomizedSearchCV)
 
 # CONCLUSION 
-KEY FINDINGS
+### KEY FINDINGS
 
 •	The neighborhood, utilities type, year the house was built influences the price of the house.
 
